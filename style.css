@@ -1,0 +1,44 @@
+html body {
+-webkit-touch-callout: none;
+-webkit-user-select: none; 
+-khtml-user-select: none; 
+-moz-user-select: none; 
+-ms-user-select: none; 
+user-select: none; 
+background: #0074D9;
+font-family: 'Lobster', cursive;
+
+}
+
+
+.style h1 {
+  font-size: 100px;
+  line-height: 100px;
+  text-shadow: -3px 0 4px #006;
+  color: #FFD700;
+}
+
+.style h2{
+	font-size: 40px;
+}
+.style p {
+	font-size: 20px;
+}
+
+.add-card{
+	height: 50px;
+}
+
+.btn-delete {
+	height: 50px;
+	width: 50px;
+}
+
+.card .btn-delete {
+	float: right;
+	height: 25px;
+	margin-top: -7px;
+}
+.column-card-list{
+  box-shadow: 5px 5px 3px #333;
+  }
